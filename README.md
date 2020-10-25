@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://s3.amazonaws.com/startupcollective-com/wp-content/uploads/programming-675x320.jpg" alt="Image">
 
 <!--
 **MatheusPetrachin/MatheusPetrachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
