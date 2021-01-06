@@ -3,11 +3,8 @@
 <h2 align="left">Hello, how are you? I'm fine!</h2>
 
 <p align=left>I'm a .NET developer but I'm constantly learning, you may find a little bit of everything in my repositories!</p>
-<p align=left>I'm studying <strong>Computer Engineering</strong>.</p>
-<p align="left">🚀 Skills: <strong>HTML5, CSS3, Bootstrap and C.</strong></p>
-<p align="left">🌈 Currently studying: <strong>JavaScript and Java.</strong></p>
-<p align="left">💻 Tools: <strong>Visual Studio Code, DevC++, Git and GitHub.</strong></p>
-<p align="left">💌 Social networks: ⤵️</p>
+<p align=left>I am studying university <strong>Computer Engineering</strong>.</p>
+<p align="left">Skills: <strong>HTML5, CSS3, Bootstrap, SQL, .NET & Angular2 </strong></p>
 
 <p align="left">
   <a href="mailto:mrp.petrachin@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mrp.petrachin@gmail.com"/></a>
