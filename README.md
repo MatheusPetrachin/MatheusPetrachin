@@ -1,4 +1,4 @@
-<img src="dev.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="dev.jpg" align="right" alt="Computador">
 
 ![Matheus Petrachin github stats](https://github-readme-stats.vercel.app/api?username=MatheusPetrachin&show_icons=true&theme=dark)
 
