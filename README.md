@@ -1,4 +1,4 @@
-<div align="right" alt="Computador">![Matheus Petrachin github stats](https://github-readme-stats.vercel.app/api?username=MatheusPetrachin&show_icons=true&theme=dark)</div>
+<p align="right">![Matheus Petrachin github stats](https://github-readme-stats.vercel.app/api?username=MatheusPetrachin&show_icons=true&theme=dark)</p>
 
 <h2 align="left">Hello, how are you? I'm fine!</h2>
 
