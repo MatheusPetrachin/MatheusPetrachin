@@ -1,4 +1,4 @@
-<img src="dev.png" align="right" alt="Computador" min-width="200px" max-width="200px" width="200px">
+<img src="dev.png" align="right" alt="Computador" min-width="300px" max-width="300px" width="300px">
 
 <h2 align="left">Hello, how are you? I'm fine!</h2>
 
