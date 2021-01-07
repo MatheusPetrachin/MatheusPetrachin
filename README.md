@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/matheuspetrachin" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://api.whatsapp.com/send?phone=5519989575872&text=Ol%C3%A1%20Matheus!%20" target="_blank" alt="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5515996311542&text=Ol%C3%A1%Matheus!%20"/></a>
   </a>
-  <a href="https://matheuspetrachin.github.io/About-Me/" target="_blank" alt="WhatsApp"><img src="https://img.shields.io/badge/dynamic/yaml?url=https://matheuspetrachin.github.io/About-Me/&label=About-Me&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>"/></a>
+  <a href="https://matheuspetrachin.github.io/About-Me/" target="_blank" alt="WhatsApp">About-Me</a>
   </a>
 </p>
 
