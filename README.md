@@ -1,4 +1,4 @@
-<img src="dev.jpg" align="right" alt="Computador">
+<img src="dev.png" align="right" alt="Computador">
 
 <h2 align="left">Hello, how are you? I'm fine!</h2>
 
