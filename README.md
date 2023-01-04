@@ -5,8 +5,8 @@
 <h2 align="left">Hello, how are you? I'm fine!</h2>
 
 <p align=left>I'm a .NET developer but I'm constantly learning, you may find a little bit of everything in my repositories!</p>
-<p align=left>I am studying university <strong>Computer Engineering</strong>.</p>
-<p align="left">Skills: <strong>HTML5, CSS3, Bootstrap, SQL, .NET & Angular2 </strong></p>
+<p align=left>I'm <strong>Computer Engineering</strong>.</p>
+<p align="left">Skills: <strong>.NET, C#, SQL and technologies involved</strong></p>
 
 <p align="left">
   <a href="mailto:mrp.petrachin@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mrp.petrachin@gmail.com"/></a>
