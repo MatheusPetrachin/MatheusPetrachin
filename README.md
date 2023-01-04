@@ -5,7 +5,7 @@
 <h2 align="left">Hello, how are you? I'm fine!</h2>
 
 <p align=left>I'm a .NET developer but I'm constantly learning, you may find a little bit of everything in my repositories!</p>
-<p align=left>I'm <strong>Computer Engineering</strong>.</p>
+<p align=left>I'm <strong>Computer Engineer</strong>.</p>
 <p align="left">Skills: <strong>.NET, C#, SQL and technologies involved</strong></p>
 
 <p align="left">
